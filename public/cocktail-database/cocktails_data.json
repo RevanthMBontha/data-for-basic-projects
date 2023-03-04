@@ -450,8 +450,8 @@
   },
   {
     "id": "936b46f7-5e3b-481c-96a4-d801256c59a3",
-    "name": "cosmopolitan ",
-    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/cosmopolitan-.jpg",
+    "name": "cosmopolitan",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/cosmopolitan.jpg",
     "category": "contemporary classics",
     "type": "cocktail",
     "baseSpirits": ["vodka"],
