@@ -2,7 +2,7 @@
   {
     "id": "51c8f0af-50d1-4584-a48f-f6fcd7218401",
     "name": "alexander",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Alexander_Cocktail.png/250px-Alexander_Cocktail.png",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/alexander.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["gin"],
@@ -26,7 +26,7 @@
   {
     "id": "2847890e-3169-44f6-82bd-afad7db89984",
     "name": "americano",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Americano_cocktail_at_Nightwood_Restaurant.jpg/250px-Americano_cocktail_at_Nightwood_Restaurant.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/americano.jpg",
     "category": "the unforgettables",
     "type": "mixed drink",
     "baseSpirits": ["vermouth", "campari"],
@@ -51,7 +51,7 @@
   {
     "id": "edd1d407-45ca-4d41-96c4-4fac843a23f1",
     "name": "angel face",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/IBA_Cocktail_Angel_Face_%2828068833805%29.jpg/250px-IBA_Cocktail_Angel_Face_%2828068833805%29.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/angel-face.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["gin", "calvados"],
@@ -67,7 +67,7 @@
   {
     "id": "1a01d322-069e-4476-be21-7e47d7cd9738",
     "name": "aviation",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Aviation_Cocktail.jpg/250px-Aviation_Cocktail.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/aviation.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["gin"],
@@ -92,7 +92,7 @@
   {
     "id": "0050cd36-a76a-472d-99fb-41a77f54dce0",
     "name": "barracuda",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Barracuda_Sparkling_Cocktail.png/250px-Barracuda_Sparkling_Cocktail.png",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/barracuda.jpg",
     "category": "new era drinks",
     "type": "cocktail",
     "baseSpirits": ["rum"],
@@ -116,7 +116,7 @@
   {
     "id": "0e531fcb-1dd3-457e-ab8e-c9d0cabc8157",
     "name": "bee's knees",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bees_Knees_Cocktail.jpg/220px-Bees_Knees_Cocktail.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/bee's-knees.jpg",
     "category": "new era drinks",
     "type": "cocktail",
     "baseSpirits": ["gin"],
@@ -139,7 +139,7 @@
   {
     "id": "410517cc-9b96-4804-ab38-a3fc06d741f0",
     "name": "bellini",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bellini_Cipriani%2C_Macaroni_Grill%2C_Dunwoody_GA.jpg/250px-Bellini_Cipriani%2C_Macaroni_Grill%2C_Dunwoody_GA.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/bellini.jpg",
     "category": "contemporary classics",
     "type": "wine cocktail",
     "baseSpirits": ["prosecco"],
@@ -162,7 +162,7 @@
   {
     "id": "037a6aee-072f-42dc-ac28-49d61f66eb0e",
     "name": "between the sheets",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Between_The_Sheets_Cocktail.jpg/250px-Between_The_Sheets_Cocktail.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/between-the-sheets.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["cognac", "rum", "triple sec"],
@@ -186,7 +186,7 @@
   {
     "id": "aabff8eb-0335-42c0-9609-957b7fdbfdf8",
     "name": "black russian",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Black_Russian.jpg/250px-Black_Russian.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/black-russian.jpg",
     "category": "contemporary classics",
     "type": "cocktail",
     "baseSpirits": ["vodka"],
@@ -205,7 +205,7 @@
   {
     "id": "9ca8953f-9107-4e9a-96a1-780ba6451b71",
     "name": "bloody mary",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bloody_Mary_Coctail_with_celery_stalk_-_Evan_Swigart.jpg/250px-Bloody_Mary_Coctail_with_celery_stalk_-_Evan_Swigart.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/bloody-mary.jpg",
     "category": "contemporary classics",
     "type": "mixed drink",
     "baseSpirits": ["vodka"],
@@ -232,7 +232,7 @@
   {
     "id": "4344cc27-3a4e-4f18-90d9-b6a2e4e29fdc",
     "name": "boulevardier",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/VTR_Happy_Hour_-_Boulevardier.jpg/250px-VTR_Happy_Hour_-_Boulevardier.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/boulevardier.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["bourbon whiskey"],
@@ -256,7 +256,7 @@
   {
     "id": "d0d19948-ce4d-42b7-a942-6f3d1e545fe5",
     "name": "bramble",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bramble_Cocktail1.jpg/250px-Bramble_Cocktail1.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/bramble.jpg",
     "category": "new era drinks",
     "type": "mixed drink",
     "baseSpirits": [],
@@ -283,7 +283,7 @@
   {
     "id": "34a36baf-5ec2-433e-9a41-e309c027836b",
     "name": "brandy crusta",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/15-09-26-RalfR-WLC-0306.jpg/250px-15-09-26-RalfR-WLC-0306.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/brandy-crusta.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["brandy"],
@@ -306,7 +306,7 @@
   {
     "id": "570c0e7b-cf0a-4ac6-9fd2-e2ab708dbc71",
     "name": "caipirinha",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Caipirinha_with_lime.jpg/250px-Caipirinha_with_lime.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/caipirinha.jpg",
     "category": "contemporary classics",
     "type": "cocktail",
     "baseSpirits": ["cachaça"],
@@ -331,7 +331,7 @@
   {
     "id": "de7cecdd-45fc-487b-a361-d440a120a83a",
     "name": "canchanchara",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Canchanchara.jpg/250px-Canchanchara.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/canchanchara.jpg",
     "category": "new era drinks",
     "type": "cocktail",
     "baseSpirits": ["rum"],
@@ -356,7 +356,7 @@
   {
     "id": "4203ba1c-89df-4803-b27b-08236a96a808",
     "name": "casino",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Casino_Cocktail_%289120690108%29.jpg/250px-Casino_Cocktail_%289120690108%29.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/casino.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["gin"],
@@ -378,7 +378,7 @@
   {
     "id": "7ac55512-02dc-480c-8a99-60a7f29892a4",
     "name": "champagne cocktail",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Champagne_cocktail_-_Portal%2C_Clerkenwell%2C_London_%284356768748%29_%28cropped%29.jpg/250px-Champagne_cocktail_-_Portal%2C_Clerkenwell%2C_London_%284356768748%29_%28cropped%29.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/champagne-cocktail.jpg",
     "category": "contemporary classics",
     "type": "cocktail",
     "baseSpirits": ["champagne"],
@@ -403,7 +403,7 @@
   {
     "id": "bd1a7f3a-94bc-47c6-98ac-232fd3bd5449",
     "name": "clover club cocktail",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Cloverclub.jpg/250px-Cloverclub.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/clover-club-cocktail.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["gin"],
@@ -428,7 +428,7 @@
   {
     "id": "699c0944-a0b2-4ae9-9fb6-76f90f5df98d",
     "name": "corpse reviver",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Corpse_Reviver_2.jpg/250px-Corpse_Reviver_2.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/corpse-reviver.jpg",
     "category": "contemporary classics",
     "type": "cocktail",
     "baseSpirits": ["gin", "orange-flavored liqueur"],
@@ -451,7 +451,7 @@
   {
     "id": "936b46f7-5e3b-481c-96a4-d801256c59a3",
     "name": "cosmopolitan ",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cosmopolitan_%285076906532%29.jpg/250px-Cosmopolitan_%285076906532%29.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/cosmopolitan-.jpg",
     "category": "contemporary classics",
     "type": "cocktail",
     "baseSpirits": ["vodka"],
@@ -477,7 +477,7 @@
   {
     "id": "7a6176e1-062b-4d4a-b34c-92efed027219",
     "name": "daiquiri",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Classic_Daiquiri_in_Cocktail_Glass.jpg/250px-Classic_Daiquiri_in_Cocktail_Glass.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/daiquiri.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["rum"],
@@ -502,7 +502,7 @@
   {
     "id": "6dbf90c8-e1f2-423c-bf8d-5096c785395f",
     "name": "dark 'n' stormy",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/DarknStormy.jpg/250px-DarknStormy.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/dark-'n'-stormy.jpg",
     "category": "new era drinks",
     "type": "mixed drink",
     "baseSpirits": ["rum"],
@@ -519,7 +519,7 @@
   {
     "id": "27eb9ceb-1e4d-4eb0-9429-4458b7f1f053",
     "name": "espresso martini",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bistrot_Bruno_Loubet%2C_Clerkenwell%2C_London_%284574785649%29.jpg/250px-Bistrot_Bruno_Loubet%2C_Clerkenwell%2C_London_%284574785649%29.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/espresso-martini.jpg",
     "category": "new era drinks",
     "type": "cocktail",
     "baseSpirits": ["vodka"],
@@ -544,7 +544,7 @@
   {
     "id": "83135a97-0517-4473-90c2-4da186b26c11",
     "name": "fernet con coca",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Fernet_and_Coke_%28Fernet_con_Coca%29.jpg/250px-Fernet_and_Coke_%28Fernet_con_Coca%29.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/fernet-con-coca.jpg",
     "category": "new era drinks",
     "type": "mixed drink",
     "baseSpirits": ["fernet-branca"],
@@ -562,7 +562,7 @@
   {
     "id": "989b2d87-c189-4acb-a6c1-d399d480ff2f",
     "name": "french 75",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/French_75.jpg/250px-French_75.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/french-75.jpg",
     "category": "contemporary classics",
     "type": "wine cocktail",
     "baseSpirits": ["champagne"],
@@ -589,7 +589,7 @@
   {
     "id": "4ce5cac7-4f44-4c04-878c-25fc91eb2ee7",
     "name": "french connection",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/French_Connection_%28cocktail%29.jpg/250px-French_Connection_%28cocktail%29.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/french-connection.jpg",
     "category": "contemporary classics",
     "type": "cocktail",
     "baseSpirits": ["cognac", "grand marnier"],
@@ -608,7 +608,7 @@
   {
     "id": "5684d923-8006-4850-a1a9-feb5e18c1d57",
     "name": "french martini",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/French_Martini.jpg/250px-French_Martini.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/french-martini.jpg",
     "category": "new era drinks",
     "type": "cocktail",
     "baseSpirits": ["vodka", "chambord raspberry liqueur"],
@@ -630,7 +630,7 @@
   {
     "id": "2536a0b6-575c-40ea-8053-7e9ffa36837b",
     "name": "gin fizz",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/15-09-26-RalfR-WLC-0032.jpg/250px-15-09-26-RalfR-WLC-0032.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/gin-fizz.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["gin"],
@@ -655,7 +655,7 @@
   {
     "id": "f94c6e06-4709-43b6-99be-b4157438c5a0",
     "name": "golden dream",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Godlen-Dream_Mixed_Drink_Cocktail_%282360538105%29.jpg/250px-Godlen-Dream_Mixed_Drink_Cocktail_%282360538105%29.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/golden-dream.jpg",
     "category": "contemporary classics",
     "type": "cocktail",
     "baseSpirits": ["galliano", "orange-flavored liqueur"],
@@ -681,7 +681,7 @@
   {
     "id": "1852df0e-7ea8-4460-9c04-f2788e420649",
     "name": "grasshopper",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Grasshopper_cocktail.jpg/250px-Grasshopper_cocktail.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/grasshopper.jpg",
     "category": "contemporary classics",
     "type": "cocktail",
     "baseSpirits": ["crème de cacao", "crème de menthe"],
@@ -705,7 +705,7 @@
   {
     "id": "4b37fb92-1d3b-4c19-bb2a-b22086b65b6b",
     "name": "hanky panky",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hanky_Panky_cocktail.jpg/250px-Hanky_Panky_cocktail.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/hanky-panky.jpg",
     "category": "the unforgettables",
     "type": "mixed drink",
     "baseSpirits": ["gin", "vermouth"],
@@ -729,7 +729,7 @@
   {
     "id": "bdf34051-d13c-4cce-a078-b1b12f04c159",
     "name": "hemingway special",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hemingway_Daiquiri.jpg/250px-Hemingway_Daiquiri.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/hemingway-special.jpg",
     "category": "contemporary classics",
     "type": "mixed drink",
     "baseSpirits": ["rum"],
@@ -751,7 +751,7 @@
   {
     "id": "9666b44d-558c-41d8-8ef7-5f1534d81f94",
     "name": "horse's neck",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/16-09-17-WikiLovesCocktails-Drink-Img0266_1.jpg/250px-16-09-17-WikiLovesCocktails-Drink-Img0266_1.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/horse's-neck.jpg",
     "category": "contemporary classics",
     "type": "highball",
     "baseSpirits": [],
@@ -776,7 +776,7 @@
   {
     "id": "cc4faefb-9672-4c4a-9ecf-ac51fe3cfe47",
     "name": "illegal",
-    "imageURL": "https://www.theshakencocktail.com/wp-content/uploads/2022/01/iStock-1345209910-scaled.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/illegal.jpg",
     "category": "new era drinks",
     "type": "cocktail",
     "baseSpirits": ["mezcal"],
@@ -804,7 +804,7 @@
   {
     "id": "b11caace-8394-4c37-8e6c-53471ed6928f",
     "name": "irish coffee",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Irish_coffee_glass.jpg/250px-Irish_coffee_glass.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/irish-coffee.jpg",
     "category": "contemporary classics",
     "type": "mixed drink",
     "baseSpirits": ["irish whiskey"],
@@ -829,7 +829,7 @@
   {
     "id": "cb79e68c-156c-4d2e-a17b-c8fd71978cb2",
     "name": "john collins",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/IBA_Cocktail_John_Collins_%2829221732881%29.jpg/250px-IBA_Cocktail_John_Collins_%2829221732881%29.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/john-collins.jpg",
     "category": "the unforgettables",
     "type": "mixed drink",
     "baseSpirits": ["gin"],
@@ -855,7 +855,7 @@
   {
     "id": "054299c6-724f-4881-ac7d-013173ed33f6",
     "name": "kir",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kir_cocktail.jpg/250px-Kir_cocktail.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/kir.jpg",
     "category": "contemporary classics",
     "type": "wine cocktail",
     "baseSpirits": ["wine"],
@@ -877,7 +877,7 @@
   {
     "id": "a806e6f1-f7cc-4b0f-adbf-7f67399836f6",
     "name": "last word",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Last_Word_cocktail_raised.jpg/250px-The_Last_Word_cocktail_raised.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/last-word.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["gin", "green chartreuse"],
@@ -901,7 +901,7 @@
   {
     "id": "bcf31d1b-cba2-4940-99cd-cb082e3905ec",
     "name": "lemon drop",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Lemon_Drop_cocktails.jpg/250px-Lemon_Drop_cocktails.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/lemon-drop.jpg",
     "category": "new era drinks",
     "type": "mixed drink",
     "baseSpirits": ["vodka"],
@@ -926,7 +926,7 @@
   {
     "id": "f09d9d45-e4e9-4121-bb30-8bcb0eecc39b",
     "name": "long island iced tea",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Long_Island_Iced_Teas.jpg/250px-Long_Island_Iced_Teas.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/long-island-iced-tea.jpg",
     "category": "contemporary classics",
     "type": "cocktail",
     "baseSpirits": ["gin", "tequila", "vodka", "rum"],
@@ -955,7 +955,7 @@
   {
     "id": "510800ba-1ca2-46d3-ae68-1988334487bc",
     "name": "mai tai",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Mai_Tai_Trader_Vics_Emeryville.jpg/250px-Mai_Tai_Trader_Vics_Emeryville.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/mai-tai.jpg",
     "category": "contemporary classics",
     "type": "cocktail",
     "baseSpirits": ["rum"],
@@ -981,7 +981,7 @@
   {
     "id": "60e0eef0-9440-4b46-b5d1-853845207da5",
     "name": "manhattan",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Manhattan_Cocktail2.jpg/250px-Manhattan_Cocktail2.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/manhattan.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["whiskey"],
@@ -1006,7 +1006,7 @@
   {
     "id": "a0522cf2-84de-4e5a-99b1-5d1edcedd905",
     "name": "margarita",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/MargaritaReal.jpg/250px-MargaritaReal.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/margarita.jpg",
     "category": "contemporary classics",
     "type": "cocktail",
     "baseSpirits": ["tequila"],
@@ -1030,7 +1030,7 @@
   {
     "id": "5ebd1ab1-c5ce-4679-a67e-b85a7f8e251d",
     "name": "martinez",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Martinez_Cocktail.jpg/250px-Martinez_Cocktail.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/martinez.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["gin"],
@@ -1055,7 +1055,7 @@
   {
     "id": "759b6a9a-42ed-4a32-a130-41f1bef05ea8",
     "name": "martini",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/15-09-26-RalfR-WLC-0084.jpg/250px-15-09-26-RalfR-WLC-0084.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/martini.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["gin", "vermouth"],
@@ -1079,7 +1079,7 @@
   {
     "id": "7480661a-101c-49db-80fc-70686cc3f206",
     "name": "mary pickford",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mary_Pickford_Cocktail.jpg/250px-Mary_Pickford_Cocktail.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/mary-pickford.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["rum"],
@@ -1104,7 +1104,7 @@
   {
     "id": "25470066-7dca-43ad-bb94-6311d3d06f6d",
     "name": "mimosa",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Pool-side_Mimosas_at_The_Standard_Hotel.jpg/250px-Pool-side_Mimosas_at_The_Standard_Hotel.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/mimosa.jpg",
     "category": "contemporary classics",
     "type": "wine cocktail",
     "baseSpirits": ["champagne"],
@@ -1123,7 +1123,7 @@
   {
     "id": "aa1cf35f-2883-4682-bc47-9484a07bc465",
     "name": "mint julep",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mint_Julep_im_Silberbecher.jpg/250px-Mint_Julep_im_Silberbecher.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/mint-julep.jpg",
     "category": "contemporary classics",
     "type": "cocktail",
     "baseSpirits": ["bourbon whiskey"],
@@ -1149,7 +1149,7 @@
   {
     "id": "e07f7d36-ce11-43bb-9a9e-7f818e8aa88c",
     "name": "mojito",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/MojitoReydelmojito.jpg/220px-MojitoReydelmojito.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/mojito.jpg",
     "category": "contemporary classics",
     "type": "cocktail",
     "baseSpirits": ["rum"],
@@ -1176,7 +1176,7 @@
   {
     "id": "e7ee72dd-0406-422b-ba58-9ab16bb5ac0c",
     "name": "monkey gland",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Monkey_Gland_%2811677703163%29.jpg/250px-Monkey_Gland_%2811677703163%29.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/monkey-gland.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["gin"],
@@ -1201,7 +1201,7 @@
   {
     "id": "9fc726b1-b9b0-4834-9ba5-1e410a5269b2",
     "name": "moscow mule",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cocktail_Moscow_Mule_im_Kupferbecher_mit_Minze.jpg/250px-Cocktail_Moscow_Mule_im_Kupferbecher_mit_Minze.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/moscow-mule.jpg",
     "category": "contemporary classics",
     "type": "mixed drink",
     "baseSpirits": ["vodka"],
@@ -1226,7 +1226,7 @@
   {
     "id": "81fd9a3a-d147-47d8-a564-233d5725a368",
     "name": "naked and famous",
-    "imageURL": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af30ca93472b.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/naked-and-famous.jpg",
     "category": "new era drinks",
     "type": "cocktail",
     "baseSpirits": ["mezcal"],
@@ -1248,7 +1248,7 @@
   {
     "id": "c227528e-e1b2-4228-8c71-80866845b1ce",
     "name": "negroni",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Negroni_served_in_Vancouver_BC.jpg/250px-Negroni_served_in_Vancouver_BC.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/negroni.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["gin", "vermouth", "campari"],
@@ -1268,7 +1268,7 @@
   {
     "id": "36765244-0a2b-4270-9d21-498db2529156",
     "name": "new york sour",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/New_York_Sour.jpg/250px-New_York_Sour.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/new-york-sour.jpg",
     "category": "new era drinks",
     "type": "cocktail",
     "baseSpirits": ["whiskey"],
@@ -1293,7 +1293,7 @@
   {
     "id": "1ce515fb-8763-4d52-88cc-a768922f9b62",
     "name": "old cuban",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/VTR_-_The_%22Old_Cuban%22_%286038903420%29.jpg/250px-VTR_-_The_%22Old_Cuban%22_%286038903420%29.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/old-cuban.jpg",
     "category": "new era drinks",
     "type": "cocktail",
     "baseSpirits": ["rum"],
@@ -1319,7 +1319,7 @@
   {
     "id": "d97a2d26-a709-4bcc-a637-5078f4e267ea",
     "name": "old fashioned",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Whiskey_Old_Fashioned1.jpg/250px-Whiskey_Old_Fashioned1.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/old-fashioned.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["whiskey"],
@@ -1347,7 +1347,7 @@
   {
     "id": "29197ae6-f9e5-4f97-a090-30e19997ca6c",
     "name": "paloma",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TequilaPaloma.JPG/250px-TequilaPaloma.JPG",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/paloma.jpg",
     "category": "new era drinks",
     "type": "cocktail",
     "baseSpirits": ["tequila"],
@@ -1374,7 +1374,7 @@
   {
     "id": "a90a8b7b-8abc-413e-a0c1-3b2442f2be45",
     "name": "paper plane",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Taub_Family_Outpost_-_June_11_2021_-_Sarah_Stierch_02.jpg/250px-Taub_Family_Outpost_-_June_11_2021_-_Sarah_Stierch_02.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/paper-plane.jpg",
     "category": "new era drinks",
     "type": "cocktail",
     "baseSpirits": ["bourbon whiskey"],
@@ -1396,7 +1396,7 @@
   {
     "id": "3e79f4a5-fb43-495c-b54e-0f9342fba504",
     "name": "paradise",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Paradise_cocktail.jpg/250px-Paradise_cocktail.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/paradise.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["gin"],
@@ -1417,7 +1417,7 @@
   {
     "id": "1baa2e06-15de-4a6a-a879-56d06440a5c6",
     "name": "penicillin",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/The_Spotted_Owl_-_Penicillin.jpg/250px-The_Spotted_Owl_-_Penicillin.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/penicillin.jpg",
     "category": "new era drinks",
     "type": "cocktail",
     "baseSpirits": ["whiskey"],
@@ -1444,7 +1444,7 @@
   {
     "id": "b1437447-4638-48b6-8eae-733adae5ca26",
     "name": "pisco sour",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pisco_sour_20100613b.JPG/250px-Pisco_sour_20100613b.JPG",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/pisco-sour.jpg",
     "category": "contemporary classics",
     "type": "cocktail",
     "baseSpirits": ["pisco"],
@@ -1467,7 +1467,7 @@
   {
     "id": "b7cfacb9-fc14-4984-8631-335357bdc64e",
     "name": "piña colada",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Pi%C3%B1a_Colada.jpg/250px-Pi%C3%B1a_Colada.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/piña-colada.jpg",
     "category": "contemporary classics",
     "type": "cocktail",
     "baseSpirits": ["rum"],
@@ -1488,7 +1488,7 @@
   {
     "id": "797ec9e0-af93-444e-a704-40adf89a0110",
     "name": "planter's punch",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Planters_Punch_2.jpg/250px-Planters_Punch_2.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/planter's-punch.jpg",
     "category": "the unforgettables",
     "type": "mixed drink",
     "baseSpirits": ["rum"],
@@ -1511,7 +1511,7 @@
   {
     "id": "502bda83-cdcf-4b1c-929e-20cf1b78def4",
     "name": "porto flip",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Porto_Flip.jpg/250px-Porto_Flip.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/porto-flip.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["port", "brandy"],
@@ -1535,7 +1535,7 @@
   {
     "id": "753cae99-3b61-4570-a415-ebd3b2f44af9",
     "name": "ramos gin fizz",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ramos_Gin_Fizz.jpg/250px-Ramos_Gin_Fizz.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/ramos-gin-fizz.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["gin"],
@@ -1566,7 +1566,7 @@
   {
     "id": "688c8d50-83de-4450-9687-7f5ca34a68fa",
     "name": "rum and coke",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/15-09-26-RalfR-WLC-0056.jpg/250px-15-09-26-RalfR-WLC-0056.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/rum-and-coke.jpg",
     "category": "contemporary classics",
     "type": "cocktail",
     "baseSpirits": ["rum"],
@@ -1583,7 +1583,7 @@
   {
     "id": "ff9a1f5b-2272-4ff8-986f-19967c88564b",
     "name": "russian spring punch",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russian_spring_punch.jpg/250px-Russian_spring_punch.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/russian-spring-punch.jpg",
     "category": "new era drinks",
     "type": "cocktail",
     "baseSpirits": ["vodka"],
@@ -1606,7 +1606,7 @@
   {
     "id": "7c267d32-135b-4adb-9b4a-3a291b5eac70",
     "name": "rusty nail",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Rusty_Nail_a_cocktail_by_%40tokenchick13_%2816503594826%29.jpg/250px-Rusty_Nail_a_cocktail_by_%40tokenchick13_%2816503594826%29.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/rusty-nail.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["scotch whiskey", "drambuie"],
@@ -1626,7 +1626,7 @@
   {
     "id": "d34062df-6718-4332-9370-5154b3e50fc8",
     "name": "sazerac",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/SazeracRooseveltNOLA1July2009.JPG/250px-SazeracRooseveltNOLA1July2009.JPG",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/sazerac.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["cognac"],
@@ -1654,7 +1654,7 @@
   {
     "id": "cee7b345-d682-4298-adec-fee2a5cd9db6",
     "name": "sea breeze",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cocktail_with_vodka.jpg/250px-Cocktail_with_vodka.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/sea-breeze.jpg",
     "category": "contemporary classics",
     "type": "mixed drink",
     "baseSpirits": ["vodka"],
@@ -1677,7 +1677,7 @@
   {
     "id": "46db430d-5019-4501-bf84-bd4bb3f2d8a1",
     "name": "sex on the beach",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sex_On_The_Beach.jpg/180px-Sex_On_The_Beach.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/sex-on-the-beach.jpg",
     "category": "contemporary classics",
     "type": "cocktail",
     "baseSpirits": ["vodka"],
@@ -1698,7 +1698,7 @@
   {
     "id": "6378bc74-ff61-484d-95d3-3addb557376f",
     "name": "sidecar",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sidecar-cocktail.jpg/250px-Sidecar-cocktail.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/sidecar.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["cognac"],
@@ -1718,7 +1718,7 @@
   {
     "id": "63f152bd-f07f-4464-9fb7-048942222714",
     "name": "singapore sling",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Singaporesling-march2017.jpg/250px-Singaporesling-march2017.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/singapore-sling.jpg",
     "category": "contemporary classics",
     "type": "mixed drink",
     "baseSpirits": ["gin"],
@@ -1747,7 +1747,7 @@
   {
     "id": "cd799632-ecd3-4dad-8d07-c12d752a229b",
     "name": "south side",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Clover_club_southside_fizz_%283285775440%29.jpg/220px-Clover_club_southside_fizz_%283285775440%29.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/south-side.jpg",
     "category": "new era drinks",
     "type": "cocktail",
     "baseSpirits": ["gin"],
@@ -1775,7 +1775,7 @@
   {
     "id": "43df7544-75cb-4786-bda9-980f6d728fcb",
     "name": "spicy fifty",
-    "imageURL": "https://cdn.diffords.com/contrib/stock-images/2015/12/20/201557d8238348ead48d4ef4a5ca1ba4b7c7.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/spicy-fifty.jpg",
     "category": "new era drinks",
     "type": "cocktail",
     "baseSpirits": ["vodka"],
@@ -1802,7 +1802,7 @@
   {
     "id": "e06bd44e-3641-4459-88ea-d10a6ebb4bd8",
     "name": "spritz",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Aperol_Spritz_aboard_Viking_Mariella.jpg/250px-Aperol_Spritz_aboard_Viking_Mariella.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/spritz.jpg",
     "category": "new era drinks",
     "type": "wine cocktail",
     "baseSpirits": ["prosecco"],
@@ -1825,7 +1825,7 @@
   {
     "id": "1a3dff88-b9e4-4050-9dcd-cf2d53c4e4ee",
     "name": "stinger",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Stinger_Cocktail.jpg/250px-Stinger_Cocktail.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/stinger.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["cognac"],
@@ -1845,7 +1845,7 @@
   {
     "id": "7eebc0bf-b5af-41ae-b66c-a9c9ce2a1cb7",
     "name": "suffering bastard",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Suffering_Bastard_Cocktail.jpg/250px-Suffering_Bastard_Cocktail.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/suffering-bastard.jpg",
     "category": "new era drinks",
     "type": "mixed drink",
     "baseSpirits": ["gin"],
@@ -1872,7 +1872,7 @@
   {
     "id": "d33b5b3e-9d80-471a-affa-a5b47a2dd3cb",
     "name": "tequila sunrise",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Tequila_Sunrise_glass.jpg/250px-Tequila_Sunrise_glass.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/tequila-sunrise.jpg",
     "category": "contemporary classics",
     "type": "mixed drink",
     "baseSpirits": ["tequila"],
@@ -1898,7 +1898,7 @@
   {
     "id": "9ad2199b-805c-4754-80a5-bf72226d09d8",
     "name": "tipperary",
-    "imageURL": "https://www.2foodtrippers.com/wp-content/uploads/2022/03/Tipperary-Cocktail-with-White-Background-540x720.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/tipperary.jpg",
     "category": "new era drinks",
     "type": "cocktail",
     "baseSpirits": ["whiskey"],
@@ -1921,7 +1921,7 @@
   {
     "id": "275956a9-18fd-4db0-9924-adae197f537e",
     "name": "tommy's margarita",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TommysMargarita.jpg/250px-TommysMargarita.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/tommy's-margarita.jpg",
     "category": "new era drinks",
     "type": "mixed drink",
     "baseSpirits": ["tequila"],
@@ -1946,7 +1946,7 @@
   {
     "id": "60a87d16-1511-46fa-94cf-a68dfda10872",
     "name": "trinidad sour",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/VTR_-_Trinidad_Sour_%2818045674468%29.jpg/250px-VTR_-_Trinidad_Sour_%2818045674468%29.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/trinidad-sour.jpg",
     "category": "new era drinks",
     "type": "cocktail",
     "baseSpirits": ["angostura bitter"],
@@ -1968,7 +1968,7 @@
   {
     "id": "f5082fb5-5be9-4510-ad51-82c348abb391",
     "name": "tuxedo",
-    "imageURL": "https://vinepair.com/wp-content/uploads/2018/03/Tuxedo-No-2-Recipe-card.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/tuxedo.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["gin"],
@@ -1992,7 +1992,7 @@
   {
     "id": "229a99d4-bc3b-4d94-b91f-e46777ef3e36",
     "name": "ve.n.to",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ve.n.to_cocktail.jpg/250px-Ve.n.to_cocktail.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/ve.n.to.jpg",
     "category": "new era drinks",
     "type": "cocktail",
     "baseSpirits": ["grappa"],
@@ -2018,7 +2018,7 @@
   {
     "id": "dda72ba8-b656-4824-8529-8368b62a1376",
     "name": "vesper",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/The_Vesper.png/250px-The_Vesper.png",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/vesper.jpg",
     "category": "contemporary classics",
     "type": "cocktail",
     "baseSpirits": ["gin"],
@@ -2039,7 +2039,7 @@
   {
     "id": "7b0d1fb6-259f-40fd-af77-0eb1d2beb1b5",
     "name": "vieux carré",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Vieux_Carre_Cocktail.jpg/250px-Vieux_Carre_Cocktail.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/vieux-carré.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["rye whiskey", "cognac"],
@@ -2066,7 +2066,7 @@
   {
     "id": "1196d1ff-53c5-4699-807d-df6e426ae7e7",
     "name": "whiskey sour",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Whiskey_Sour.jpg/250px-Whiskey_Sour.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/whiskey-sour.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["whiskey"],
@@ -2092,7 +2092,7 @@
   {
     "id": "6c6446f3-16c9-4b5a-925b-644499ed903b",
     "name": "white lady",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/White_Lady_-_Beefeater_gin%2C_Cointreau%2C_fresh_lemon_juice_%2812403540403%29.jpg/250px-White_Lady_-_Beefeater_gin%2C_Cointreau%2C_fresh_lemon_juice_%2812403540403%29.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/white-lady.jpg",
     "category": "the unforgettables",
     "type": "cocktail",
     "baseSpirits": ["gin"],
@@ -2113,7 +2113,7 @@
   {
     "id": "07f17fa4-20cd-4f89-85fd-d28fecbcf9fb",
     "name": "yellow bird",
-    "imageURL": "https://www.acouplecooks.com/wp-content/uploads/2021/03/Yellow-Bird-Cocktail-004.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/yellow-bird.jpg",
     "category": "new era drinks",
     "type": "cocktail",
     "baseSpirits": ["rum"],
@@ -2135,7 +2135,7 @@
   {
     "id": "649cb0d4-3153-4d53-b088-ff8ee6862e2a",
     "name": "zombie",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/ZombieCocktail.jpg/250px-ZombieCocktail.jpg",
+    "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/zombie.jpg",
     "category": "contemporary classics",
     "type": "cocktail",
     "baseSpirits": ["rum"],
