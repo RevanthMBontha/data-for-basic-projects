@@ -259,7 +259,7 @@
     "imageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images/bramble.jpg",
     "category": "new era drinks",
     "type": "mixed drink",
-    "baseSpirits": [],
+    "baseSpirits": ["brandy"],
     "stdDrinkWare": "old fashioned glass",
     "ingredients": [
       "50 ml gin",
