@@ -21,7 +21,8 @@
       "This drink is commonly served straight up, i.e., chilled, without ice",
       "This drink is commonly served after dinner"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/alexander_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/alexander_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/alexander_small.jpg"
   },
   {
     "id": "2847890e-3169-44f6-82bd-afad7db89984",
@@ -46,7 +47,8 @@
       "This drink is served on the rocks: poured on ice",
       "This drink is commonly served before dinner"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/americano_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/americano_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/americano_small.jpg"
   },
   {
     "id": "edd1d407-45ca-4d41-96c4-4fac843a23f1",
@@ -62,7 +64,8 @@
       "Shake and strain into a chilled cocktail glass"
     ],
     "tips": ["This drink is served straight up: chilled, without ice"],
-    "extLink": "https://en.wikipedia.org/wiki/angel_face_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/angel_face_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/angel-face_small.jpg"
   },
   {
     "id": "1a01d322-069e-4476-be21-7e47d7cd9738",
@@ -87,7 +90,8 @@
       "You can omit the Crème de Violette, and go for a mixture of two thirds dry Gin, one third lemon juice and two dashes of Maraschino",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/aviation_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/aviation_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/aviation_small.jpg"
   },
   {
     "id": "0050cd36-a76a-472d-99fb-41a77f54dce0",
@@ -111,7 +115,8 @@
       "Top with prosecco"
     ],
     "tips": ["This drink is served straight up: chilled, without ice"],
-    "extLink": "https://en.wikipedia.org/wiki/barracuda_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/barracuda_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/barracuda_small.jpg"
   },
   {
     "id": "0e531fcb-1dd3-457e-ab8e-c9d0cabc8157",
@@ -134,7 +139,8 @@
       "Garnish with a lemon peel"
     ],
     "tips": ["This drink is served straight up: chilled, without ice"],
-    "extLink": "https://en.wikipedia.org/wiki/bee%27s_knees"
+    "extLink": "https://en.wikipedia.org/wiki/bee%27s_knees",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/bee's-knees_small.jpg"
   },
   {
     "id": "410517cc-9b96-4804-ab38-a3fc06d741f0",
@@ -157,7 +163,8 @@
       "Traditionally a Bellini uses white peaches for the fruit",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/bellini_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/bellini_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/bellini_small.jpg"
   },
   {
     "id": "037a6aee-072f-42dc-ac28-49d61f66eb0e",
@@ -181,7 +188,8 @@
       "This drink is alternately knows as \"Maiden's Prayer\"",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/between_the_sheets_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/between_the_sheets_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/between-the-sheets_small.jpg"
   },
   {
     "id": "aabff8eb-0335-42c0-9609-957b7fdbfdf8",
@@ -200,7 +208,8 @@
       "This drink is commonly served after dinner",
       "This drink is served on the rocks: poured over ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/black_russian"
+    "extLink": "https://en.wikipedia.org/wiki/black_russian",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/black-russian_small.jpg"
   },
   {
     "id": "9ca8953f-9107-4e9a-96a1-780ba6451b71",
@@ -227,7 +236,8 @@
       "Optionally, you can also use a lemon wedge for garnish",
       "This drink is served on the rocks: poured over ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/bloody_mary_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/bloody_mary_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/bloody-mary_small.jpg"
   },
   {
     "id": "4344cc27-3a4e-4f18-90d9-b6a2e4e29fdc",
@@ -251,7 +261,8 @@
       "This drink is served with a garnish of orange zest, or optionally a lemon zest",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/boulevardier_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/boulevardier_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/boulevardier_small.jpg"
   },
   {
     "id": "d0d19948-ce4d-42b7-a942-6f3d1e545fe5",
@@ -278,7 +289,8 @@
       "This drink is garnished with blackberry, and lemon slice",
       "This drink is served on the rocks: poured over ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/bramble_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/bramble_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/bramble_small.jpg"
   },
   {
     "id": "34a36baf-5ec2-433e-9a41-e309c027836b",
@@ -301,7 +313,8 @@
       "Strain into slim cocktail glass rimmed with sugar"
     ],
     "tips": ["This drink is garnished with orange or lemon twist"],
-    "extLink": "https://en.wikipedia.org/wiki/brandy_crusta"
+    "extLink": "https://en.wikipedia.org/wiki/brandy_crusta",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/brandy-crusta_small.jpg"
   },
   {
     "id": "570c0e7b-cf0a-4ac6-9fd2-e2ab708dbc71",
@@ -326,7 +339,8 @@
       "This drink is garnished with sugarcane or lime",
       "This drink is served on the rocks: poured over ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/Caipirinha"
+    "extLink": "https://en.wikipedia.org/wiki/Caipirinha",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/caipirinha_small.jpg"
   },
   {
     "id": "de7cecdd-45fc-487b-a361-d440a120a83a",
@@ -351,7 +365,8 @@
       "This drink is garnished with a lime wedge",
       "This drink is served on the rocks: poured over ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/canchanchara"
+    "extLink": "https://en.wikipedia.org/wiki/canchanchara",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/canchanchara_small.jpg"
   },
   {
     "id": "4203ba1c-89df-4803-b27b-08236a96a808",
@@ -373,7 +388,8 @@
       "Garnish with a lemon twist and a maraschino cherry"
     ],
     "tips": ["This drink is served straight up: chilled, without ice"],
-    "extLink": "https://en.wikipedia.org/wiki/casino_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/casino_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/casino_small.jpg"
   },
   {
     "id": "7ac55512-02dc-480c-8a99-60a7f29892a4",
@@ -398,7 +414,8 @@
       "This drink is garnished with orange slice and maraschino cherry",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/champagne_cocktail"
+    "extLink": "https://en.wikipedia.org/wiki/champagne_cocktail",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/champagne-cocktail_small.jpg"
   },
   {
     "id": "bd1a7f3a-94bc-47c6-98ac-232fd3bd5449",
@@ -423,7 +440,8 @@
       "There are several variations of this drink with the most common replacing the Raspberry syrup with Grenadine or Red Currant syrup",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/clover_club_cocktail"
+    "extLink": "https://en.wikipedia.org/wiki/clover_club_cocktail",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/clover-club-cocktail_small.jpg"
   },
   {
     "id": "699c0944-a0b2-4ae9-9fb6-76f90f5df98d",
@@ -446,7 +464,8 @@
       "Garnish with orange zest"
     ],
     "tips": ["This drink is served straight up: chilled, without ice"],
-    "extLink": "https://en.wikipedia.org/wiki/corpse_reviver#corpse_reviver_#2_&_#2a"
+    "extLink": "https://en.wikipedia.org/wiki/corpse_reviver#corpse_reviver_#2_&_#2a",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/corpse-reviver_small.jpg"
   },
   {
     "id": "936b46f7-5e3b-481c-96a4-d801256c59a3",
@@ -472,7 +491,8 @@
       "This drink is garnished with a lime slice",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/cosmopolitan_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/cosmopolitan_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/cosmopolitan_small.jpg"
   },
   {
     "id": "7a6176e1-062b-4d4a-b34c-92efed027219",
@@ -497,7 +517,8 @@
       "There are many variations of the Daiquiri like \"Hemingway Daiquiri\", \"Mulata Daiquiri\", \"Old Rose Daiquiri\"",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/daiquiri"
+    "extLink": "https://en.wikipedia.org/wiki/daiquiri",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/daiquiri_small.jpg"
   },
   {
     "id": "6dbf90c8-e1f2-423c-bf8d-5096c785395f",
@@ -514,7 +535,8 @@
       "Garnish with a lime wedge or slice"
     ],
     "tips": ["This drink is served on the rocks: poured over ice"],
-    "extLink": "https://en.wikipedia.org/wiki/dark_%27n%27_stormy"
+    "extLink": "https://en.wikipedia.org/wiki/dark_%27n%27_stormy",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/dark-'n'-stormy_small.jpg"
   },
   {
     "id": "27eb9ceb-1e4d-4eb0-9429-4458b7f1f053",
@@ -539,7 +561,8 @@
       "This drink is garnished with 3 coffee beans",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/espresso_martini"
+    "extLink": "https://en.wikipedia.org/wiki/espresso_martini",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/espresso-martini_small.jpg"
   },
   {
     "id": "83135a97-0517-4473-90c2-4da186b26c11",
@@ -557,7 +580,8 @@
       "Stir gently"
     ],
     "tips": ["This drink is served on the rocks: poured over ice"],
-    "extLink": "https://en.wikipedia.org/wiki/fernet_con_coca"
+    "extLink": "https://en.wikipedia.org/wiki/fernet_con_coca",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/fernet-con-coca_small.jpg"
   },
   {
     "id": "989b2d87-c189-4acb-a6c1-d399d480ff2f",
@@ -584,7 +608,8 @@
       "The Canon de 75 Modèle 1897 is the source of the name of the cocktail",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/french_75_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/french_75_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/french-75_small.jpg"
   },
   {
     "id": "4ce5cac7-4f44-4c04-878c-25fc91eb2ee7",
@@ -603,7 +628,8 @@
       "This drink is commonly served after dinner",
       "This drink is served on the rocks: poured over ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/french_connection_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/french_connection_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/french-connection_small.jpg"
   },
   {
     "id": "5684d923-8006-4850-a1a9-feb5e18c1d57",
@@ -625,7 +651,8 @@
       "Squeeze oil from lemon peel onto the drink"
     ],
     "tips": ["This drink is served straight up: chilled, without ice"],
-    "extLink": "https://en.wikipedia.org/wiki/french_martini"
+    "extLink": "https://en.wikipedia.org/wiki/french_martini",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/french-martini_small.jpg"
   },
   {
     "id": "2536a0b6-575c-40ea-8053-7e9ffa36837b",
@@ -650,7 +677,8 @@
       "This drink is garnished with lemon slice",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/fizz_(cocktail)#gin_fizz"
+    "extLink": "https://en.wikipedia.org/wiki/fizz_(cocktail)#gin_fizz",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/gin-fizz_small.jpg"
   },
   {
     "id": "f94c6e06-4709-43b6-99be-b4157438c5a0",
@@ -676,7 +704,8 @@
       "This drink is commonly served after dinner",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/golden_dream_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/golden_dream_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/golden-dream_small.jpg"
   },
   {
     "id": "1852df0e-7ea8-4460-9c04-f2788e420649",
@@ -700,7 +729,8 @@
       "This drink is commonly served after dinner",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/grasshopper_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/grasshopper_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/grasshopper_small.jpg"
   },
   {
     "id": "4b37fb92-1d3b-4c19-bb2a-b22086b65b6b",
@@ -724,7 +754,8 @@
       "This drink is a variation on the \"Sweet Martini\"",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/hanky_panky_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/hanky_panky_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/hanky-panky_small.jpg"
   },
   {
     "id": "bdf34051-d13c-4cce-a078-b1b12f04c159",
@@ -749,7 +780,8 @@
       "This drink is a descendant of \"Floridita Daiquiri\"",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/hemingway_special"
+    "extLink": "https://en.wikipedia.org/wiki/hemingway_special",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/hemingway-special_small.jpg"
   },
   {
     "id": "9666b44d-558c-41d8-8ef7-5f1534d81f94",
@@ -774,7 +806,8 @@
       "This drink is garnished with a long spiral of lemon zest",
       "This drink is served on the rocks: poured over ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/horse%27s_neck"
+    "extLink": "https://en.wikipedia.org/wiki/horse%27s_neck",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/horse's-neck_small.jpg"
   },
   {
     "id": "cc4faefb-9672-4c4a-9ecf-ac51fe3cfe47",
@@ -802,7 +835,8 @@
       "This drink is served straight up: chilled, without ice",
       "Alternately, it can be poured into a traditional clay or terracotta mug and served on the rocks: poured over ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/illegal_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/illegal_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/illegal_small.jpg"
   },
   {
     "id": "b11caace-8394-4c37-8e6c-53471ed6928f",
@@ -827,7 +861,8 @@
       "Gently run the cream over a spoon into the glass",
       "This drink is served hot"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/irish_coffee"
+    "extLink": "https://en.wikipedia.org/wiki/irish_coffee",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/irish-coffee_small.jpg"
   },
   {
     "id": "cb79e68c-156c-4d2e-a17b-c8fd71978cb2",
@@ -853,7 +888,8 @@
       "This drink is garnished with lemon slice and maraschino cherry",
       "This drink is served on the rocks: poured over ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/john_collins_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/john_collins_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/john-collins_small.jpg"
   },
   {
     "id": "054299c6-724f-4881-ac7d-013173ed33f6",
@@ -875,7 +911,8 @@
       "This drink is commonly served before dinner",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/kir_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/kir_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/kir_small.jpg"
   },
   {
     "id": "a806e6f1-f7cc-4b0f-adbf-7f67399836f6",
@@ -899,7 +936,8 @@
       "The taste may vary slightly depending on the brand of Gin being used",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/last_word_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/last_word_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/last-word_small.jpg"
   },
   {
     "id": "bcf31d1b-cba2-4940-99cd-cb082e3905ec",
@@ -924,7 +962,8 @@
       "This drink is garnished with sugar on the rim of the glass",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/lemon_drop_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/lemon_drop_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/lemon-drop_small.jpg"
   },
   {
     "id": "f09d9d45-e4e9-4121-bb30-8bcb0eecc39b",
@@ -953,7 +992,8 @@
       "This drink was named for it's visual resemblance to non-alcoholic iced tea",
       "This drink is served on the rocks: poured over ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/long_island_iced_tea"
+    "extLink": "https://en.wikipedia.org/wiki/long_island_iced_tea",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/long-island-iced-tea_small.jpg"
   },
   {
     "id": "510800ba-1ca2-46d3-ae68-1988334487bc",
@@ -979,7 +1019,8 @@
       "This drink is garnished with pineapple spear, mint leaves and lime peel",
       "This drink is served with shaved or crushed ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/mai_tai"
+    "extLink": "https://en.wikipedia.org/wiki/mai_tai",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/mai-tai_small.jpg"
   },
   {
     "id": "60e0eef0-9440-4b46-b5d1-853845207da5",
@@ -1004,7 +1045,8 @@
       "This drink is garnished with maraschino cherry",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/manhattan_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/manhattan_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/manhattan_small.jpg"
   },
   {
     "id": "a0522cf2-84de-4e5a-99b1-5d1edcedd905",
@@ -1028,7 +1070,8 @@
       "Add a half salt rim to the glass, if desired",
       "This drink is served on the rocks (poured over ice) or straight up (chilled, without ice) or frozen"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/margarita"
+    "extLink": "https://en.wikipedia.org/wiki/margarita",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/margarita_small.jpg"
   },
   {
     "id": "5ebd1ab1-c5ce-4679-a67e-b85a7f8e251d",
@@ -1053,7 +1096,8 @@
       "This drink is commonly garnished with lemon zest",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/martinez_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/martinez_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/martinez_small.jpg"
   },
   {
     "id": "759b6a9a-42ed-4a32-a130-41f1bef05ea8",
@@ -1077,7 +1121,8 @@
       "This drink is commonly served before dinner",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/martini_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/martini_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/martini_small.jpg"
   },
   {
     "id": "7480661a-101c-49db-80fc-70686cc3f206",
@@ -1102,7 +1147,8 @@
       "This drink is served straight up: chilled, without ice",
       "This drink is often served with a maraschino cherry"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/mary_pickford_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/mary_pickford_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/mary-pickford_small.jpg"
   },
   {
     "id": "25470066-7dca-43ad-bb94-6311d3d06f6d",
@@ -1121,7 +1167,8 @@
       "This drink is garnished with an orange twist",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/mimosa_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/mimosa_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/mimosa_small.jpg"
   },
   {
     "id": "aa1cf35f-2883-4682-bc47-9484a07bc465",
@@ -1147,7 +1194,8 @@
       "This drink can also be served in a highball glass",
       "This drink is served on the rocks: poured over ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/mint_julep"
+    "extLink": "https://en.wikipedia.org/wiki/mint_julep",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/mint-julep_small.jpg"
   },
   {
     "id": "e07f7d36-ce11-43bb-9a9e-7f818e8aa88c",
@@ -1174,7 +1222,8 @@
       "This drink is garnished with sprigs of mint and slice of lime",
       "This drink is served on the rocks: poured over ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/mojito"
+    "extLink": "https://en.wikipedia.org/wiki/mojito",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/mojito_small.jpg"
   },
   {
     "id": "e7ee72dd-0406-422b-ba58-9ab16bb5ac0c",
@@ -1199,7 +1248,8 @@
       "Some recipes substitute Absinthe with Pastis or Bénédictine",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/monkey_gland_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/monkey_gland_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/monkey-gland_small.jpg"
   },
   {
     "id": "9fc726b1-b9b0-4834-9ba5-1e410a5269b2",
@@ -1224,7 +1274,8 @@
       "This drink is garnished with a lime slice",
       "This drink is served on the rocks: poured over ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/moscow_mule"
+    "extLink": "https://en.wikipedia.org/wiki/moscow_mule",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/moscow-mule_small.jpg"
   },
   {
     "id": "81fd9a3a-d147-47d8-a564-233d5725a368",
@@ -1246,7 +1297,8 @@
       "Strain into a chilled cocktail glass"
     ],
     "tips": ["This drink is served straight up: chilled, without ice"],
-    "extLink": "https://en.wikipedia.org/wiki/naked_and_famous_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/naked_and_famous_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/naked-and-famous_small.jpg"
   },
   {
     "id": "c227528e-e1b2-4228-8c71-80866845b1ce",
@@ -1266,7 +1318,8 @@
       "A traditionally made Negroni is stirred, not shaken",
       "This drink is served on the rocks: poured over ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/negroni"
+    "extLink": "https://en.wikipedia.org/wiki/negroni",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/negroni_small.jpg"
   },
   {
     "id": "36765244-0a2b-4270-9d21-498db2529156",
@@ -1291,7 +1344,8 @@
       "Garnish with lemon or orange zest and cherry"
     ],
     "tips": ["This drink is served on the rocks: poured over ice"],
-    "extLink": "https://en.wikipedia.org/wiki/new_york_sour"
+    "extLink": "https://en.wikipedia.org/wiki/new_york_sour",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/new-york-sour_small.jpg"
   },
   {
     "id": "1ce515fb-8763-4d52-88cc-a768922f9b62",
@@ -1317,7 +1371,8 @@
       "Garnish with mint sprigs"
     ],
     "tips": ["This drink is served straight up: chilled, without ice"],
-    "extLink": "https://en.wikipedia.org/wiki/old_cuban"
+    "extLink": "https://en.wikipedia.org/wiki/old_cuban",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/old-cuban_small.jpg"
   },
   {
     "id": "d97a2d26-a709-4bcc-a637-5078f4e267ea",
@@ -1345,7 +1400,8 @@
       "This drink is commonly served before dinner",
       "This drink is served on the rocks: poured over ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/old_fashioned_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/old_fashioned_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/old-fashioned_small.jpg"
   },
   {
     "id": "29197ae6-f9e5-4f97-a090-30e19997ca6c",
@@ -1372,7 +1428,8 @@
       "This drink is garnished with a slice of lime",
       "This drink is served on the rocks: poured over ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/paloma_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/paloma_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/paloma_small.jpg"
   },
   {
     "id": "a90a8b7b-8abc-413e-a0c1-3b2442f2be45",
@@ -1394,7 +1451,8 @@
       "Strain into a chilled cocktail glass"
     ],
     "tips": ["This drink is served straight up: chilled, without ice"],
-    "extLink": "https://en.wikipedia.org/wiki/paper_plane_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/paper_plane_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/paper-plane_small.jpg"
   },
   {
     "id": "3e79f4a5-fb43-495c-b54e-0f9342fba504",
@@ -1415,7 +1473,8 @@
       "Strain into a chilled cocktail glass"
     ],
     "tips": ["This drink is served straight up: chilled, without ice"],
-    "extLink": "https://en.wikipedia.org/wiki/paradise_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/paradise_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/paradise_small.jpg"
   },
   {
     "id": "1baa2e06-15de-4a6a-a879-56d06440a5c6",
@@ -1442,7 +1501,8 @@
       "This drink is garnished with candied ginger",
       "This drink is served on the rocks: poured over ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/penicillin_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/penicillin_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/penicillin_small.jpg"
   },
   {
     "id": "b1437447-4638-48b6-8eae-733adae5ca26",
@@ -1465,7 +1525,8 @@
       "Garnish with bitters"
     ],
     "tips": ["This drink is served straight up: chilled, without ice"],
-    "extLink": "https://en.wikipedia.org/wiki/pisco_sour"
+    "extLink": "https://en.wikipedia.org/wiki/pisco_sour",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/pisco-sour_small.jpg"
   },
   {
     "id": "b7cfacb9-fc14-4984-8631-335357bdc64e",
@@ -1486,7 +1547,8 @@
       "Garnish with pineapple slice and/or maraschino cherry"
     ],
     "tips": ["This drink is served frozen: blended with ice"],
-    "extLink": "https://en.wikipedia.org/wiki/pi%c3%b1a_colada"
+    "extLink": "https://en.wikipedia.org/wiki/pi%c3%b1a_colada",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/piña-colada_small.jpg"
   },
   {
     "id": "797ec9e0-af93-444e-a704-40adf89a0110",
@@ -1509,7 +1571,8 @@
       "This drink is generally diluted to taste by adding water or fresh juices",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/planter%27s_punch"
+    "extLink": "https://en.wikipedia.org/wiki/planter%27s_punch",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/planter's-punch_small.jpg"
   },
   {
     "id": "502bda83-cdcf-4b1c-929e-20cf1b78def4",
@@ -1533,7 +1596,8 @@
       "This drink is garnished with grated Nutmeg",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/porto_flip"
+    "extLink": "https://en.wikipedia.org/wiki/porto_flip",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/porto-flip_small.jpg"
   },
   {
     "id": "753cae99-3b61-4570-a415-ebd3b2f44af9",
@@ -1564,7 +1628,8 @@
       "Other alternative of the gin fizz include \"Japanese Gin Fizz\", \"Meyer Lemon Fizz\", \"Strawberry Gin Fizz\" and \"Sour Melon Fizz\" among others",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/fizz_(cocktail)#ramos_gin_fizz"
+    "extLink": "https://en.wikipedia.org/wiki/fizz_(cocktail)#ramos_gin_fizz",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/ramos-gin-fizz_small.jpg"
   },
   {
     "id": "688c8d50-83de-4450-9687-7f5ca34a68fa",
@@ -1581,7 +1646,8 @@
       "Garnish with lime wedge"
     ],
     "tips": ["This drink is served on the rocks: poured over ice"],
-    "extLink": "https://en.wikipedia.org/wiki/rum_and_coke"
+    "extLink": "https://en.wikipedia.org/wiki/rum_and_coke",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/rum-and-coke_small.jpg"
   },
   {
     "id": "ff9a1f5b-2272-4ff8-986f-19967c88564b",
@@ -1604,7 +1670,8 @@
       "Top up with sparkling wine"
     ],
     "tips": ["This drink is served on the rocks: poured over ice"],
-    "extLink": "https://en.wikipedia.org/wiki/russian_spring_punch"
+    "extLink": "https://en.wikipedia.org/wiki/russian_spring_punch",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/russian-spring-punch_small.jpg"
   },
   {
     "id": "7c267d32-135b-4adb-9b4a-3a291b5eac70",
@@ -1624,7 +1691,8 @@
       "This drink is commonly served after dinner",
       "This drink is served on the rocks: poured over ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/rusty_nail_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/rusty_nail_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/rusty-nail_small.jpg"
   },
   {
     "id": "d34062df-6718-4332-9370-5154b3e50fc8",
@@ -1652,7 +1720,8 @@
       "This drink is commonly served after dinner",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/sazerac"
+    "extLink": "https://en.wikipedia.org/wiki/sazerac",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/sazerac_small.jpg"
   },
   {
     "id": "cee7b345-d682-4298-adec-fee2a5cd9db6",
@@ -1675,7 +1744,8 @@
       "This drink is garnished with a lime slice",
       "This drink is served on the rocks: poured over ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/sea_breeze_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/sea_breeze_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/sea-breeze_small.jpg"
   },
   {
     "id": "46db430d-5019-4501-bf84-bd4bb3f2d8a1",
@@ -1696,7 +1766,8 @@
       "Garnish with an orange slice"
     ],
     "tips": ["This drink is served on the rocks: poured over ice"],
-    "extLink": "https://en.wikipedia.org/wiki/sex_on_the_beach"
+    "extLink": "https://en.wikipedia.org/wiki/sex_on_the_beach",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/sex-on-the-beach_small.jpg"
   },
   {
     "id": "6378bc74-ff61-484d-95d3-3addb557376f",
@@ -1716,7 +1787,8 @@
       "Optionally, you can sugar the rim of the glass",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/sidecar_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/sidecar_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/sidecar_small.jpg"
   },
   {
     "id": "63f152bd-f07f-4464-9fb7-048942222714",
@@ -1745,7 +1817,8 @@
       "This drink is garnished with pineapple and maraschino cherry",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/singapore_sling"
+    "extLink": "https://en.wikipedia.org/wiki/singapore_sling",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/singapore-sling_small.jpg"
   },
   {
     "id": "cd799632-ecd3-4dad-8d07-c12d752a229b",
@@ -1773,7 +1846,8 @@
       "This drink is served straight up: chilled, without ice",
       "Alternately, a \"South Side Fizz\" can be made by adding soda water and not using egg white"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/south_side_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/south_side_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/south-side_small.jpg"
   },
   {
     "id": "43df7544-75cb-4786-bda9-980f6d728fcb",
@@ -1800,7 +1874,8 @@
       "DO NOT FORGET to remind the drinker to not eat the chili",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/list_of_iba_official_cocktails"
+    "extLink": "https://en.wikipedia.org/wiki/list_of_iba_official_cocktails",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/spicy-fifty_small.jpg"
   },
   {
     "id": "e06bd44e-3641-4459-88ea-d10a6ebb4bd8",
@@ -1823,7 +1898,8 @@
       "This drink is garnished with a slice of orange",
       "This drink is served on the rocks: poured over ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/spritz_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/spritz_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/spritz_small.jpg"
   },
   {
     "id": "1a3dff88-b9e4-4050-9dcd-cf2d53c4e4ee",
@@ -1843,7 +1919,8 @@
       "This drink is commonly served before dinner",
       "This drink is served straight up: chilled without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/stinger_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/stinger_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/stinger_small.jpg"
   },
   {
     "id": "7eebc0bf-b5af-41ae-b66c-a9c9ce2a1cb7",
@@ -1870,7 +1947,8 @@
       "This drink is garnished with mint sprig, and optionally an orange slice",
       "This drink is served on the rocks: poured over ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/suffering_bastard"
+    "extLink": "https://en.wikipedia.org/wiki/suffering_bastard",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/suffering-bastard_small.jpg"
   },
   {
     "id": "d33b5b3e-9d80-471a-affa-a5b47a2dd3cb",
@@ -1896,7 +1974,8 @@
       "This drink is garnished with orange slice and cherry",
       "This drink is served on the rocks: poured over ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/tequila_sunrise"
+    "extLink": "https://en.wikipedia.org/wiki/tequila_sunrise",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/tequila-sunrise_small.jpg"
   },
   {
     "id": "9ad2199b-805c-4754-80a5-bf72226d09d8",
@@ -1919,7 +1998,8 @@
       "Garnish with a slice of orange"
     ],
     "tips": ["This drink is served straight up: chilled, without ice"],
-    "extLink": "https://en.wikipedia.org/wiki/tipperary_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/tipperary_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/tipperary_small.jpg"
   },
   {
     "id": "275956a9-18fd-4db0-9924-adae197f537e",
@@ -1944,7 +2024,8 @@
       "This drink is garnished with a lime slice",
       "This drink is served on the rocks: poured over ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/tommy%27s_margarita"
+    "extLink": "https://en.wikipedia.org/wiki/tommy%27s_margarita",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/tommy's-margarita_small.jpg"
   },
   {
     "id": "60a87d16-1511-46fa-94cf-a68dfda10872",
@@ -1966,7 +2047,8 @@
       "Strain into chilled cocktail glass"
     ],
     "tips": ["This drink is served straight up: chilled, without ice"],
-    "extLink": "https://en.wikipedia.org/wiki/trinidad_sour"
+    "extLink": "https://en.wikipedia.org/wiki/trinidad_sour",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/trinidad-sour_small.jpg"
   },
   {
     "id": "f5082fb5-5be9-4510-ad51-82c348abb391",
@@ -1990,7 +2072,8 @@
       "Garnish with a cherry and a twist of lemon zest"
     ],
     "tips": ["This drink is served straight up: chilled, without ice"],
-    "extLink": "https://en.wikipedia.org/wiki/tuxedo_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/tuxedo_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/tuxedo_small.jpg"
   },
   {
     "id": "229a99d4-bc3b-4d94-b91f-e46777ef3e36",
@@ -2016,7 +2099,8 @@
       "If desired, the water used to make the honey mix can be replaced with Chamomile Fusion",
       "This drink is served on the rocks: poured over ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/ve.n.to"
+    "extLink": "https://en.wikipedia.org/wiki/ve.n.to",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/ve.n.to_small.jpg"
   },
   {
     "id": "dda72ba8-b656-4824-8529-8368b62a1376",
@@ -2037,7 +2121,8 @@
       "This drink is commonly served before dinner",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/vesper_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/vesper_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/vesper_small.jpg"
   },
   {
     "id": "7b0d1fb6-259f-40fd-af77-0eb1d2beb1b5",
@@ -2064,7 +2149,8 @@
       "This drink's name is french for \"old square\"",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/vieux_carr%c3%a9_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/vieux_carr%c3%a9_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/vieux-carré_small.jpg"
   },
   {
     "id": "1196d1ff-53c5-4699-807d-df6e426ae7e7",
@@ -2090,7 +2176,8 @@
       "This drink  is commonly served before dinner",
       "This drink can be served over the rocks (poured over ice) or straight up (chilled, without ice)"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/Whiskey_sour"
+    "extLink": "https://en.wikipedia.org/wiki/Whiskey_sour",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/whiskey-sour_small.jpg"
   },
   {
     "id": "6c6446f3-16c9-4b5a-925b-644499ed903b",
@@ -2111,7 +2198,8 @@
       "This drink is a variation of \"Sidecar\"",
       "This drink is served straight up: chilled, without ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/white_lady_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/white_lady_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/white-lady_small.jpg"
   },
   {
     "id": "07f17fa4-20cd-4f89-85fd-d28fecbcf9fb",
@@ -2133,7 +2221,8 @@
       "Strain into a chilled cocktail glass"
     ],
     "tips": ["This drink is served straight up: chilled, without ice"],
-    "extLink": "https://en.wikipedia.org/wiki/yellow_bird_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/yellow_bird_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/yellow-bird_small.jpg"
   },
   {
     "id": "649cb0d4-3153-4d53-b088-ff8ee6862e2a",
@@ -2165,6 +2254,7 @@
       "This drink is garnished with mint sprig",
       "This drink is served on the rocks: poured over ice"
     ],
-    "extLink": "https://en.wikipedia.org/wiki/zombie_(cocktail)"
+    "extLink": "https://en.wikipedia.org/wiki/zombie_(cocktail)",
+    "tnImageURL": "https://api-for-basic-projects.netlify.app/cocktail-database/images-small/zombie_small.jpg"
   }
 ]
